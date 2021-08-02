@@ -35,7 +35,9 @@ time, mark, audio, video {
   src: url(../fonts/Roboto-Italic.ttf); }
 body {
   font-family: "Roboto-Regular";
-  font-size: 16px; }
+  font-size: 16px; 
+  background-color:#4762b7;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat-Bold"; }

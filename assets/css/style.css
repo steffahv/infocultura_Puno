@@ -36,7 +36,7 @@ time, mark, audio, video {
 body {
   font-family: "Roboto-Regular";
   font-size: 16px; 
-  background-color:#4762b7;
+  background-color:#4d0a3d;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -64,7 +64,7 @@ header .card a, .vr-gallery a.btn {
     color: #03133a; }
 
 header {
-  background-image: url(../images/home-bg.png);
+  background-image: url(../images/home-bg.jpg);
   text-align: center;
   padding: 20px 0;
   padding-bottom: 50px; }

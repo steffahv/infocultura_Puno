@@ -2,7 +2,7 @@
 
 ### Vista Previa
 
-![desktop](assets/images/preview.png)
+![img](assets/images/preview.png)
 
 ### Herramientas Utilizadas
 

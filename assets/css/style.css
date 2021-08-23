@@ -814,7 +814,7 @@ footer {
     padding: 8px; }
 
 .tranding-posts a {
-  color: #333333;
+  color: #ffffff;
   font-size: 16px;
   text-decoration: none; }
 .tranding-posts p {
@@ -823,7 +823,7 @@ footer {
 .tranding-posts .media {
   align-items: stretch; }
   .tranding-posts .media:hover a {
-    color: #03133a;
+    color: #ffffff;
     font-family: "Montserrat-Bold"; }
 
 @media (max-width: 767px) {

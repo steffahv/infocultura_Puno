@@ -825,7 +825,9 @@ footer {
   .tranding-posts .media:hover a {
     color: #ffffff;
     font-family: "Montserrat-Bold"; }
-
+    body > div > div > div > div.col-lg-3.pl-0 > div > div.owl-carousel.bg-gray.owl-carousel5.owl-theme.my-5.pb-5.owl-loaded.owl-drag > div.owl-stage-outer > div > div.owl-item.active.center > div > div > span {
+    color:#ffffff;
+    }
 @media (max-width: 767px) {
   .mt-md-4 {
     margin-top: 50px; } }
